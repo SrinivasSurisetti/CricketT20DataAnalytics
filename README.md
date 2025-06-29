@@ -1,11 +1,11 @@
 
 # 🏏 CricketT20DataAnalytics
 ***This project focuses on analyzing T20 cricket player statistics to identify the **Best XI** players based on performance and visualizing key insights through an interactive **Power BI dashboard*****
-## Screenshots
+## Screenshot
 
 
 
-![Screenshot 2025-06-29 135522](https://github.com/user-attachments/assets/234796c6-f844-4046-80b3-5526802d5c88)
+![DashBoard](https://github.com/user-attachments/assets/234796c6-f844-4046-80b3-5526802d5c88)
 
 ## 🚀 Features
 

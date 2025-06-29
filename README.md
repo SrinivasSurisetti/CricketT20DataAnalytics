@@ -7,12 +7,15 @@
 
 ![DashBoard](https://github.com/user-attachments/assets/234796c6-f844-4046-80b3-5526802d5c88)
 
+
+
 ## 🚀 Features
 
 - Convert raw JSON cricket data to clean CSV
 - Analyze player stats: runs, strike rate, economy, wickets
 - Filter players by role, team, and year
 - Visual selection of Best XI using Power BI
+- [Video](https://github.com/user-attachments/assets/1c5fe54b-9c6c-4f0d-9731-dd2ad51aafc8)
 
 ----
 

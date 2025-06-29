@@ -3,7 +3,7 @@
 ***This project focuses on analyzing T20 cricket player statistics to identify the **Best XI** players based on performance and visualizing key insights through an interactive **Power BI dashboard*****
 ## Screenshots
 
-- [DashBoard](https://drive.google.com/file/d/1_ANTBotJQVxfGyHjc-c00sROwhiZJwOq/view?usp=sharing)
+- [DashBoard](https://github.com/user-attachments/assets/107f0127-1f81-4d9d-8de5-40aabc872079)
 
 
 ## 🚀 Features
